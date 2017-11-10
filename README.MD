@@ -1,4 +1,4 @@
-This package contains Lendoit's Smart Contract(s) for launching and managing Lendoit operations.
+This package contains Lendoit's Smart Contracts for launching and managing Lendoit operations.
 
 
 ## Links
@@ -7,9 +7,9 @@ Github issue tracker and source code: <https://github.com/lendoit/contracts>
 
 Telegram group for questions and discussion: https://t.me/Lendoit
 
-Documentation: <https://ico.readthedocs.io/en/latest/>
+Documentation: <https://ico.readthedocs.io/en/latest>
 
-Solidity language: http://solidity.readthedocs.io/en/develop/
+Solidity language: http://solidity.readthedocs.io/en/develop
 
 
 ## About the project
